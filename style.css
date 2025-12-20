@@ -3896,7 +3896,7 @@ max-width: 640px;
 }
 
 .ux-logo span {
-  color: linear-gradient(90deg, #2d2d2d, #4a4a4a);
+  color: #c49b63;
 }
 
 /* ================= DESKTOP NAV ================= */
@@ -3932,7 +3932,7 @@ max-width: 640px;
 .ux-cta {
   padding: 10px 18px;
   border-radius: 10px;
-  background: #6a7cff;
+  background: #c49b63;
   color: #fff;
   text-decoration: none;
   font-weight: 500;
@@ -4020,4 +4020,5 @@ max-width: 640px;
     html {
       overflow-x: hidden;
     }
+
 }
